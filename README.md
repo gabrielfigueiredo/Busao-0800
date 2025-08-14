@@ -10,4 +10,4 @@ Rather than trying to faithfully recreate each of the several different styles f
 To contribute to the project, contact Gabriel Figueiredo at oi(at)gabrielfigueiredo.com
 
 # License
-Busao 0800 is licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
+The Busão 0800 fonts are licensed under the SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
