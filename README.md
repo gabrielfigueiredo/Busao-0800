@@ -6,6 +6,8 @@ As fontes Busão 0800 são uma iniciativa da Typeóca para contribuir com a camp
 
 A idéia é que as fontes — distribuídas gratuitamente — possam funcionar como ferramenta para que outros designers e interessados possam se juntar à campanha, ajudando a criar pressão popular da maneira que acharem mais conveniente. 
 
+A última versão das fontes pode ser baixada diretamente pelo link https://github.com/gabrielfigueiredo/Busao-0800/raw/refs/heads/main/Fontes/Busao_0800-v1.zip
+
 # Sobre as fontes 
 
 Os ônibus de Belo Horizonte não possuem um padrão para o letreiro dos LEDs de seus ônibus, o que temos são diferentes padrões que coexistem de forma não muito bem definida. A proposta das fontes não é a de uma recriação fiel aos modelos de letras existentes, mas sim de criar um sistema coeso inspirado nos estilos mais icônicos e mais recorrentes.
