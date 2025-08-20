@@ -8,7 +8,9 @@ A idéia é que as fontes — distribuídas gratuitamente — possam funcionar c
 
 # Sobre as fontes 
 
-Os ônibus de Belo Horizonte não possuem um padrão para o letreiro dos LEDs de seus ônibus, o que temos são diferentes padrões que coexistem de forma não muito bem definida. A proposta das fontes não é a de uma recriação fiel aos modelos de letras existentes, mas sim de criar um sistema coeso inspirado nos estilos mais icônicos e mais recorrentes. O sistema desenvolvido conta com 6 subfamílias, com diferentes alturas e larguras de fonte, cada uma disponível tanto como fontes estáticas (em arquivos .OTF com 10 pesos por subfamília) quanto como fontes variáveis (em arquivos .ttf(gx)).
+Os ônibus de Belo Horizonte não possuem um padrão para o letreiro dos LEDs de seus ônibus, o que temos são diferentes padrões que coexistem de forma não muito bem definida. A proposta das fontes não é a de uma recriação fiel aos modelos de letras existentes, mas sim de criar um sistema coeso inspirado nos estilos mais icônicos e mais recorrentes.
+
+O sistema desenvolvido conta com 6 subfamílias, com diferentes alturas e larguras de fonte, cada uma disponível tanto como fontes estáticas (em arquivos .OTF com 10 pesos por subfamília) quanto como fontes variáveis (em arquivos .ttf(gx)).
 
 Os nomes das fontes seguem o tamanho médio ocupado pela letra H no grid do LED:
 
