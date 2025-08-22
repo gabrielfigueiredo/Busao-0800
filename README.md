@@ -28,7 +28,7 @@ Os nomes das fontes seguem o tamanho médio ocupado pela letra H no grid do LED:
 
 13x7 > Encontrada no painel frontal superior, de maior destaque, com as informações sobre o número da linha e seus pontos de partida e final.
 
-Caso queira contribuir com o proejto, favor entrar em contato pelo email oi(at)gabrielfigueiredo.com
+Caso queira contribuir com o proejto, favor entrar em contato pelo email oi(arroba)gabrielfigueiredo.com
 
 # Licença
 As fontes Busão 0800 estão disponíveis de acordo com os termos da licença SIL Open Font License v1.1 (http://scripts.sil.org/OFL)
