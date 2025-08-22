@@ -1,6 +1,6 @@
 # Busão 0800
 PROTÓTIPO FUNCIONAL
-*/ As fontes Busão 0800 foram desenvolvidas apenas até o ponto em que pudessem funcionar de forma razoável em posts títulos e layouts simples em português, e provavelmente não receberão atualizações futuras.*
+*/ As fontes Busão 0800 foram desenvolvidas apenas até o ponto em que pudessem funcionar de forma razoável em posts títulos e layouts simples em português, e provavelmente não receberão atualizações futuras.*/
 
 As fontes Busão 0800 são uma iniciativa da Typeóca para contribuir com a campanha pela aprovação do PL 60/2025, que propõe a gratuitade do transporte público em Belo Horizonte. O projeto foi desenhado à muitas mãos, propondo não só novos termos para a relação com as empresas de ônibus como também formas testadas de financiamento. Para saber mais sobre o projeto de lei, acesse o site https://bh.busao0800.com/.
 
